@@ -63,3 +63,14 @@ A branch atual se torna a upstream, o que no final significa que ela é rastread
 
 ## Questão 2
 Git remote
+
+# Parte 7 
+
+## Questão 1
+Não senti dificuldade, ja tenho familiaridade
+
+## Questão 2
+Ajuda na produção segura de projetos
+
+## Questão 3
+Segurança de projeto
